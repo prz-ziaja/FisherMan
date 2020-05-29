@@ -1,0 +1,10 @@
+#questions begin with '?' and ends with new line
+#answers begin with '!' and ends with new line
+?What is your name?
+!It is 'Arthur', King of the Britons.
+?What... is your quest?
+!To seek the Holy Grail.
+?What... is the air-speed velocity of an unladen swallow?
+!What do you mean? An African or European swallow?
+
+
